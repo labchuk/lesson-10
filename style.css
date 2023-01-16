@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+.container{
+	max-width: 1150px;
+	width: 100%;
+	margin: 0 auto;
+	background: red;
+	height: 800px;
+}
+.header{
+	display: flex;
+	justify-content: space-between;
+}
+.column{
+	margin-left: 600px;
+}
